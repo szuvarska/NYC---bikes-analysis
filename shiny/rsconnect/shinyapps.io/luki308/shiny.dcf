@@ -1,0 +1,11 @@
+name: shiny
+title:
+username:
+account: luki308
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6413955
+bundleId: 5986945
+url: https://luki308.shinyapps.io/shiny/
+when: 1654634467.94421
+lastSyncTime: 1654634467.94421
